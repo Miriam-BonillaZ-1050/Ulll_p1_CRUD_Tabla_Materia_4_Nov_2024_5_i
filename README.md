@@ -5,7 +5,9 @@ curd version 2, 5 nov 2025
 ![image](https://github.com/user-attachments/assets/2120b681-40c4-4e6c-ad2e-78aea34d5cac)
 
 - Botones de editar y borrar
-![image](https://github.com/user-attachments/assets/f541a5dd-16ff-4602-a3f9-99a19c732051)
+![image](https://github.com/user-attachments/assets/1460c39f-384c-4305-8a5e-435f93740cbb)
 
-![image](https://github.com/user-attachments/assets/dcb64124-5571-44d6-a979-42a621a1bcc3)
+
+![image](https://github.com/user-attachments/assets/dba07774-dd43-43b6-976d-88085ddc8a89)
+
 
